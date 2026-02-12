@@ -1,10 +1,4 @@
-Perfect. Below is a **clean, professional, no-emoji, no-images GitHub README** suitable for an enterprise-style repository.
-
-You can copy this directly into `README.md`.
-
----
-
-# Windows Vulnerability Intelligence Engine
+ Windows Vulnerability Intelligence Engine
 
 A Python-based Windows software inventory and vulnerability intelligence tool that:
 
